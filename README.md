@@ -1,1 +1,1 @@
-# School-Management-System
+The School Management System project, developed in C, serves as a practical tool for enhancing the efficiency and accuracy of school administration. By leveraging fundamental programming concepts and data handling techniques, this system offers a robust solution for managing educational institutions effectively.
